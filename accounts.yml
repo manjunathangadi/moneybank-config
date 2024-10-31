@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to MoneyBank accounts related local APIs "
+  message: "Welcome to MoneyBank accounts related local spring bus APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}4daedcc855a389e9bd4b2ccbb6dbed8ddc855c192c279bcddc8b58a4ca60a8e84b7789789abed50a668c20a2b69a32dc"

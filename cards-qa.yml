@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to MoneyBank cards related QA APIs "
+  message: "Welcome to MoneyBank cards related QA spring bus APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@MoneyBank.com"
