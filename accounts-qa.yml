@@ -4,12 +4,12 @@ spring:
       on-profile: "qa"
 
 build:
-  version: "88888.0"
+  version: "1.0"
 
 accounts:
   message: "Welcome to MoneyBank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
+    name: "Smitha M Ray - QA Lead"
     email: "smitha@MoneyBank.com"
   onCallSupport:
     - (666) 265-3765

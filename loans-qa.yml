@@ -9,7 +9,7 @@ build:
 loans:
   message: "Welcome to MoneyBank loans related QA APIs "
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
+    name: "Cyrano M Marita - QA Lead"
     email: "cyrano@MoneyBank.com"
   onCallSupport:
     - (785) 545-6565
