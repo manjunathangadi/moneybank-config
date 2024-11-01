@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MoneyBank cards related prod spring bus APIs "
+  message: "Welcome to MoneyBank cards related prod webhook APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@MoneyBank.com"

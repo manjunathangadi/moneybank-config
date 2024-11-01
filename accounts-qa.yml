@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MoneyBank accounts related QA APIs "
+  message: "Welcome to MoneyBank accounts related webhook QA APIs "
   contactDetails:
     name: "Smitha M Ray - QA Lead"
     email: "smitha@MoneyBank.com"
