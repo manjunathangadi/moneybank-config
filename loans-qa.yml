@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to MoneyBank loans related webhook APIs "
+  message: "Welcome to MoneyBank loans related qa webhook APIs "
   contactDetails:
     name: "Cyrano M Marita - QA Lead"
     email: "cyrano@MoneyBank.com"
