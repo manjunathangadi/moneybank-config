@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to MoneyBank loans related production webhook2 APIs "
+  message: "Welcome to MoneyBank loans related production dockerized and webhook implemented APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@MoneyBank.com"

@@ -7,7 +7,7 @@ build:
   version: "1123.0"
 
 accounts:
-  message: "Welcome to MoneyBank accounts related webhook2 APIs "
+  message: "Welcome to MoneyBank accounts related production dockerized and webhook implemented APIs "
   contactDetails:
     name: "Reine M Aishwarya - Product Owner"
     email: "aishwarya@MoneyBank.com"
