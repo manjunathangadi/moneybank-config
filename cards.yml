@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to MoneyBank cards related dev webhook2 APIs "
+  message: "Welcome to MoneyBank cards related dev dockerized and webhook implemented APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@MoneyBank.com"
